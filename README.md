@@ -4,7 +4,10 @@ I'm a recent graduate with a B.S. in Professional Computer Science from Middle T
 ## About this repository
 This repositiory contains examples of source code that I've written as well as the language, platform, and environment that the project was created in. Each project will also contain a brief explanation of its purpose and funtionality as well.
 
-### c++ Examples
+## Language Examples
+* [c++](https://github.com/Dwright615/About-Me#c-examples "C++ Examples")
+
+### C++
 These are a few programs written in c++ ranging from simple to fairly complex. Provided below are links to the source code along with a brief description of the program. All of these are console applications and  were written using Microsoft Visual Studio. 
 
 * [Back Tracking Algorithm](https://github.com/Dwright615/About-Me/blob/master/backTracking.cc "backTracking.cc") (Driver).
