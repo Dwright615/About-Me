@@ -1,6 +1,3 @@
-// Dynamic Fibonacci.cpp : Defines the entry point for the console application.
-//
-
 #include <iostream>
 #include <string>
 #include <sstream>
@@ -10,10 +7,7 @@ using namespace std;
 int long long Fibo(int n);
 string output_formatted_string(long long num);
 
-
 int main() {
-	int long long ar[70];
-
 	int n = 0;
 	cout << "Enter a number: ";
 	cin >> n;
