@@ -5,8 +5,8 @@ I'm a recent graduate with a B.S. in Professional Computer Science from Middle T
 This repositiory contains examples of source code that I've written as well as the language, platform, and environment that the project was created in. Each project will also contain a brief explanation of its purpose and funtionality as well.
 
 ## Language Examples
-* [c++](https://https://github.com/Dwright615/About-Me/tree/master#c "C++ Examples")
-* [c#]()
+* [C++](https://https://github.com/Dwright615/About-Me/tree/master#c "C++ Examples")
+* [C#](https://github.com/Dwright615/About-Me/blob/master/README.md#c-1 "C# Examples")
 
 ### C++
 These are a few programs written in c++ ranging from simple to fairly complex. Provided below are links to the source code along with a brief description of the program. All of these are console applications and  were written using Microsoft Visual Studio. 
